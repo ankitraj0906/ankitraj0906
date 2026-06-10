@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, Ankit Raj here
 
-<!--
-**ankitraj0906/ankitraj0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer**
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-ankitraj.xyz.com-6B7280?style=for-the-badge&logoColor=white)](https://ankitraj.xyz.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+*Building stuff people find interesting*
+
+## About Me
+
+- Full Stack Developer
+- Building projects I love
+- I love shipping things
+
+## Tech I build with
+
+![](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,ts&theme=dark)
+
+## Stats
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit0906&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Reach Out
+
+[Twitter](#) • [LinkedIn](#) • [Email](mailto:you@email.com)
