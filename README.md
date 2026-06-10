@@ -1,27 +1,33 @@
-### Hi, Ankit Raj here
+### Hi, Ankit here
 
-**Full Stack Developer**
+**Full Stack Developer • AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ankitraj.xyz.com-6B7280?style=for-the-badge&logoColor=white)](https://ankitraj.xyz.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mysite.com-6B7280?style=for-the-badge&logoColor=white)](https://mysite.com)
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 *Building stuff people find interesting*
 
-## About Me
+## 🚀 About Me
 
-- Full Stack Developer
-- Building projects I love
-- I love shipping things
+- 🧑‍💻 21 and CS undergrad
+- 🔭 Building my lore on Full Stack and AI engineering
+- ⚡ I love building projects
 
 ## Tech I build with
 
-![](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,ts&theme=dark)
+**💻 Languages & Frameworks**
 
-## Stats
+![](https://skillicons.dev/icons?i=c,java,py,js,ts,rust&theme=dark)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit0906&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://skillicons.dev/icons?i=react,nextjs,tauri,electron,nodejs,express&theme=dark)
 
-## Reach Out
+![](https://skillicons.dev/icons?i=mongodb,supabase,flask,gcp,html,css,tailwind&theme=dark)
 
-[Twitter](#) • [LinkedIn](#) • [Email](mailto:you@email.com)
+**🎨 Creative Suite**
+
+![](https://skillicons.dev/icons?i=blender,ps,ae,pr,unreal&theme=dark)
+
+## 📫 Reach Out!
+
+[Twitter](#) • [LinkedIn](#) • [Instagram](#) • [Email](mailto:you@email.com)
