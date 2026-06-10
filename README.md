@@ -30,4 +30,4 @@
 
 ## 📫 Reach Out!
 
-[Twitter](#) • [LinkedIn](#) • [Instagram](#) • [Email](mailto:you@email.com)
+[LinkedIn](https://www.linkedin.com/in/ankitrajjbd) • [Instagram](https://www.instagram.com/ig_ankitraj/) • [Email](mailto:ankitraj58370@gmail.com)
