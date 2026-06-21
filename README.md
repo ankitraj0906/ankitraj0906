@@ -2,7 +2,7 @@
 
 **Full Stack Developer • AI Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mysite.com-6B7280?style=for-the-badge&logoColor=white)](https://mysite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mysite.com-6B7280?style=for-the-badge&logoColor=white)](https://myportfolio-jade-kappa.vercel.app)
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
